@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yann Delorme &#8211; Curriculum Vitae</title>
+	<atom:link href="https://nimarell.github.io/resume/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nimarell.github.io/resume/</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Wed, 23 Oct 2019 19:21:50 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+
+<image>
+	<url>https://nimarell.github.io/resume/wp-content/uploads/2019/10/cropped-YD_Logo-32x32.png</url>
+	<title>Yann Delorme &#8211; Curriculum Vitae</title>
+	<link>https://nimarell.github.io/resume/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title></title>
+		<link>https://nimarell.github.io/resume/2019/10/23/bonjour-tout-le-monde/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/bonjour-tout-le-monde/#comments</comments>
+				<pubDate>Wed, 23 Oct 2019 17:05:38 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Slider principal]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=1</guid>
+				<description><![CDATA[YANN DELORMEWEBDESIGNER]]></description>
+								<content:encoded><![CDATA[
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image"><img src="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png" alt="" class="wp-image-83" srcset="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png 444w, https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo-300x270.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column">
+<h2 style="text-align:center"><br>YANN DELORME<br><em class="jobTitle">WEBDESIGNER</em></h2>
+</div>
+</div>
+]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/bonjour-tout-le-monde/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+		<item>
+		<title></title>
+		<link>https://nimarell.github.io/resume/2019/10/23/502/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/502/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 17:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Slider principal]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=502</guid>
+				<description><![CDATA[YANN DELORMEDEVELOPPEUR FRONT-END]]></description>
+								<content:encoded><![CDATA[
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image"><img src="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png" alt="" class="wp-image-83" srcset="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png 444w, https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo-300x270.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<h2><br>YANN DELORME<br><em class="jobTitle">DEVELOPPEUR FRONT-END</em></h2>
+</div>
+</div>
+]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/502/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title></title>
+		<link>https://nimarell.github.io/resume/2019/10/23/498/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/498/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 16:56:55 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Slider principal]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=498</guid>
+				<description><![CDATA[YANN DELORMEGRAPHISTE]]></description>
+								<content:encoded><![CDATA[
+<div class="wp-block-columns has-2-columns">
+<div class="wp-block-column">
+<figure class="wp-block-image"><img src="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png" alt="" class="wp-image-83" srcset="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png 444w, https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo-300x270.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></figure>
+
+
+
+<p></p>
+</div>
+
+
+
+<div class="wp-block-column">
+<h2 style="text-align:center"><br>YANN DELORME<br><em class="jobTitle">GRAPHISTE</em></h2>
+</div>
+</div>
+]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/498/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Logo &#8211; Auto Garage</title>
+		<link>https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 11:07:46 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=281</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Logo &#8211; Argo Amenagement</title>
+		<link>https://nimarell.github.io/resume/2019/10/23/logo-argo-amenagement/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/logo-argo-amenagement/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 11:07:22 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=279</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-argo-amenagement/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Logo &#8211; SLAT</title>
+		<link>https://nimarell.github.io/resume/2019/10/23/logo-slat/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/logo-slat/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 11:06:57 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=277</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-slat/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Publicité &#8211; La cuisine zéro gâchis</title>
+		<link>https://nimarell.github.io/resume/2019/10/23/publicite-la-cuisine-zero-gachis/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/publicite-la-cuisine-zero-gachis/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 11:06:24 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=275</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/publicite-la-cuisine-zero-gachis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Logo &#8211; INK</title>
+		<link>https://nimarell.github.io/resume/2019/10/23/logo-ink/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/logo-ink/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 11:05:56 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=273</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-ink/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Logo &#8211; I-Trop déclinaison</title>
+		<link>https://nimarell.github.io/resume/2019/10/23/logo-i-trop-declinaison/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/logo-i-trop-declinaison/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 11:04:49 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=271</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-i-trop-declinaison/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Logo I-Trop</title>
+		<link>https://nimarell.github.io/resume/2019/10/23/itrop-logo/</link>
+				<comments>https://nimarell.github.io/resume/2019/10/23/itrop-logo/#respond</comments>
+				<pubDate>Wed, 23 Oct 2019 11:03:37 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=258</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/itrop-logo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
