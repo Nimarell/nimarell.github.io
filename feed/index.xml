@@ -12,13 +12,13 @@
 	<atom:link href="https://nimarell.github.io/resume/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nimarell.github.io/resume/</link>
 	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Wed, 23 Oct 2019 19:21:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Oct 2019 19:21:50 +0200</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<generator>https://wordpress.org/?v=5.3</generator>
 
 <image>
 	<url>https://nimarell.github.io/resume/wp-content/uploads/2019/10/cropped-YD_Logo-32x32.png</url>
