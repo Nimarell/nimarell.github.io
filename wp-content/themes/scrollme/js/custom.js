@@ -5,7 +5,7 @@ jQuery(document).ready(function ($) {
     //Navigation toggle
     $('#toggle').click(function () {
         $(this).toggleClass('on');
-        $('#colophon').toggleClass('fp-show');
+        $('#site-navigation').toggleClass('fp-show');
     });
 
     //Service tab
@@ -110,7 +110,8 @@ jQuery(document).ready(function ($) {
 
     if(($('html').hasClass('mobile') || (wwidth < 770 && $('html').hasClass('tablet'))) && $('body').hasClass('page-template-tpl-home')){
        $('#site-navigation a').click(function(){
-        $('.site-footer').removeClass('scroll-show');
+        $('#site-navigation').removeClass('scroll-show');
+		$('.toogle-wrap').addClass('toggleOff');
         });
 
         $("body #site-navigation li").click(function(evn){
@@ -156,10 +157,10 @@ jQuery(document).ready(function ($) {
             afterSlideLoad: function(anchorLink, index, slideAnchor, slideIndex){
                 if( slideIndex == 0 ) {
                     $('.header-wrapper').addClass('hide-header').removeClass('show-header');
-                    $('#colophon').removeClass('fp-show');
+                    $('#site-navigation').removeClass('fp-show');
                 }else {
                     $('.header-wrapper').addClass('show-header').removeClass('hide-header');
-                    $('#colophon').addClass('fp-show');
+                    $('#site-navigation').addClass('fp-show');
                 }
     
                 $('#site-navigation li').removeClass('current-menu-item');
@@ -173,22 +174,25 @@ jQuery(document).ready(function ($) {
             afterLoad: function(anchorLink, index){
                 if( index == 1 ){
                     $('.header-wrapper').addClass('hide-header').removeClass('show-header');
-                    $('#colophon').removeClass('fp-show');
+                    $('#site-navigation').removeClass('fp-show');
                 }else {
                     $('.header-wrapper').addClass('show-header').removeClass('hide-header');
-                    $('#colophon').addClass('fp-show');
+                    $('#site-navigation').addClass('fp-show');
                 }
             }
         });
     }
 
     $('.toggle-nav').click(function(){
-        $('.site-footer').addClass('scroll-show').addClass('fp-show');
+        $('#site-navigation').addClass('scroll-show').addClass('fp-show');
+		$('#toggle').addClass('on');
+		$('.toogle-wrap').removeClass('toggleOff');
     });
 
     $('#toggle').click(function(){
-        $('.site-footer').removeClass('scroll-show');
-        $(this).addClass('on');
+        $('#site-navigation').removeClass('scroll-show');
+        $(this).removeClass('on');
+		$('.toogle-wrap').addClass('toggleOff');
     });
 
         $(".s-panel-inner").mCustomScrollbar({

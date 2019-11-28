@@ -12,7 +12,7 @@
 	<atom:link href="https://nimarell.github.io/resume/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nimarell.github.io/resume/</link>
 	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Wed, 23 Oct 2019 19:21:50 +0200</lastBuildDate>
+	<lastBuildDate>Thu, 28 Nov 2019 10:36:37 +0100</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -76,7 +76,7 @@
 
 
 <div class="wp-block-column">
-<h2><br>YANN DELORME<br><em class="jobTitle">DEVELOPPEUR FRONT-END</em></h2>
+<h2 class="has-text-align-center"><br>YANN DELORME<br><em class="jobTitle">DEVELOPPEUR FRONT-END</em></h2>
 </div>
 </div>
 ]]></content:encoded>

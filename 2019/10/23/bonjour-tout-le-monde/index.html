@@ -164,10 +164,11 @@ img.toolsSpacing {
 .wp-block-columns.contacts1-0-1 .wp-block-column:second-child { flex-basis: 50%;}
 
 .contactTxt {
+	position: absolute;
 	font-size: 18px;
-	margin-top: -60%;
-	margin-left: -15%;
-	width: 400px;
+	margin-top: 0%;
+	margin-left: -2%;
+	width: 320px;
 	line-height: 45px;
 }
 
@@ -209,6 +210,120 @@ body.custom-background {
 
 .wpcf7-response-output {
 	color: white;
+}
+
+.invertArrow {
+	position: relative;
+	background: #4caab2;
+  height: 130px;
+  width: 320px;
+  margin-top: 40%;
+}
+
+.invertArrow:after {
+  left: 0%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(0, 0, 0, 0);
+	border-left-color: #333333;
+	border-width: 65px;
+	margin-top: -65px;
+}
+
+@media screen and (max-width:1000px) {
+	#site-navigation{
+		top: 0;
+		height: 100%;
+		overflow-y:scroll; 
+		z-index: 999;
+		float: left;
+		left: 0;
+		background: rgba(51, 51, 51, 0.8);
+		width: 100%;
+		position: fixed;
+	}
+	
+	#toggle .one {
+	    -ms-transform: rotate(45deg) translate(3px, -7px);
+	    -webkit-transform: rotate(45deg) translate(3px, -7px);
+	    transform: rotate(45deg) translate(3px, -7px);
+	    -ms-transform-origin: 0 0;
+	    -webkit-transform: 0 0;
+	    transform-origin: 0 0;
+	}
+	
+	#toggle .two {
+	    opacity: 0;
+	}
+	
+	#toggle .three {
+	    -ms-transform: rotate(-45deg) translate(3px, 5px);
+	    -webkit-transform: rotate(-45deg) translate(3px, 5px);
+	    transform: rotate(-45deg) translate(3px, 5px);
+	    -ms-transform-origin: 0 0;
+	    -webkit-transform: 0 0;
+	    transform-origin: 0 0;
+	}
+	
+		#site-navigation{		
+	    -ms-transform: translateY(-100%) !important;
+	    -webkit-transform: translateY(-100%) !important;
+	    transform: translateY(-100%) !important;
+	    transition: all 0.4s ease-in-out;
+	    -moz-transition: all 0.4s ease-in-out;
+	    -webkit-transition: all 0.4s ease-in-out;
+	}
+
+	#site-navigation.scroll-show{
+		-ms-transform: translateY(86px) !important;
+	    -webkit-transform: translateY(86px) !important;
+	    transform: translateY(86px) !important;
+	}
+	
+	.header-wrapper {
+		top: 0;
+		width: 100%;
+	}
+	
+	.main-navigation li {
+		font-size: 20px;
+	}
+	
+	.menu-item a {
+		margin: 7% 7%;
+		border-left: 7px solid #4baab2;
+		letter-spacing: 2px;
+	}
+	
+	.slide-desc {
+		display: block;
+		width: 40%;
+		line-height: 1;
+	}
+	
+	.slide-desc h2 {
+		font-size: 35px;
+		margin-top: 0;
+	}
+	
+	.slider-section .slide-caption {
+		padding: 0;
+	}
+	
+	.slide-desc .wp-block-columns {
+		width: 75%;
+	}
+	
+	
+}
+
+.toggleOff {
+	display: none;
 }		</style>
 			<!-- Fonts Plugin CSS - https://fontsplugin.com/ -->
 	<style>
@@ -249,7 +364,7 @@ font-family: "PT Sans" !important;
 <li data-menuanchor='portfolio' id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-124"><a href="https://nimarell.github.io/resume/#home/portfolio">Réalisations</a></li>
 <li data-menuanchor='contact' id="menu-item-125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-125"><a href="https://nimarell.github.io/resume/#home/contact">Contact</a></li>
 </ul>    			</nav><!-- #site-navigation -->
-    			   	<div class="toogle-wrap">
+    			   	<div class="toogle-wrap toggleOff">
         				<div id="toggle" >
         				    <div class="one"></div>
         				    <div class="two"></div>
@@ -379,7 +494,7 @@ Les avatars des personnes qui commentent arrivent depuis <a href="https://gravat
                 
             </div>
 </aside>			
-			<div class="aps-each-icon icon-1-1" style="margin:px;" data-aps-tooltip="GitHub - Nimarell" data-aps-tooltip-enabled="1" data-aps-tooltip-bg="#000" data-aps-tooltip-color="#fff">
+			<div class="aps-each-icon icon-1-1" style="margin:px;" data-aps-tooltip="Curriculum Vitae - Yann Delorme" data-aps-tooltip-enabled="1" data-aps-tooltip-bg="#000" data-aps-tooltip-color="#fff">
 				<a href="https://drive.google.com/open?id=1oXq69-gYXB3DM87rvR2Lk652Gu1NBttW" target="_blank" class="aps-icon-link animated aps-tooltip" data-animation-class="">
         			<img src="https://nimarell.github.io/resume/wp-content/uploads/2019/10/CV.png" alt="Curriculum Vitae">
     			</a>
@@ -413,7 +528,7 @@ var wpcf7 = {"apiSettings":{"root":"https:\/\/nimarell.github.io\/resume\/wp-jso
 var sBxslider = {"pause":"4000"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://nimarell.github.io/resume/wp-content/themes/scrollme/js/custom.js?ver=20120206'></script>
+<script type='text/javascript' src='https://nimarell.github.io/resume/wp-content/themes/scrollme/js/custom.js?ver=redo'></script>
 <script type='text/javascript' src='https://nimarell.github.io/resume/wp-includes/js/comment-reply.min.js?ver=5.3'></script>
 <script type='text/javascript' src='https://nimarell.github.io/resume/wp-includes/js/wp-embed.min.js?ver=5.3'></script>
 
