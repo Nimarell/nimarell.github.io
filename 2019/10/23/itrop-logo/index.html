@@ -236,6 +236,7 @@ body.custom-background {
 	margin-top: -65px;
 }
 
+/**** SUR SMARTPHONE ****/
 @media screen and (max-width:1000px) {
 	#site-navigation{
 		top: 0;
@@ -320,11 +321,74 @@ body.custom-background {
 		width: 75%;
 	}
 	
+	.entry-header {
+		border-left: 10px solid #4baab2;
+	}
 	
 }
+/**** FIN SMARTPHONE ****/
 
 .toggleOff {
 	display: none;
+}
+
+#msgSent {
+	margin-left: 5%;
+	box-shadow: 0 2px 0px 0px #4baab2;
+}
+
+/**** SUR TABLETTE ****/
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+	
+	.slide-desc {
+		display: block;
+		width: 100%;
+		max-width: 768px;
+		line-height: 1.7;
+	}
+	
+	.slide-desc h2 {
+		font-size: 60px;
+		margin-top: -10%;
+	}
+	
+	.slide-desc .wp-block-columns {
+		flex-direction: column;
+		margin: auto;
+	}
+	
+	.slider-section .slide-caption {
+		width: 768px;
+		margin-left: -5%;
+		margin-bottom: -17%;
+	}
+	
+	#post-12 .wp-block-columns.w-two-one .wp-block-column:first-child {
+		flex-basis: 85%;
+	}
+	
+	#post-12 .wp-block-columns.w-two-one .wp-block-column {
+		flex-basis: 85%;
+		margin: auto;
+	}
+
+	#post-24 .wp-block-columns.contacts1-0-1 .wp-block-column:first-child {
+		margin: auto;
+		flex-basis: 85%;
+	}
+	
+	#post-24 .wp-block-column:nth-child(2n){
+		margin-left: 40%;
+	}
+	
+	#post-24 .invertArrow {
+		margin-top: 50%;
+		margin-left: -25%;
+	}
 }		</style>
 			<!-- Fonts Plugin CSS - https://fontsplugin.com/ -->
 	<style>

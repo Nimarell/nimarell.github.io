@@ -8,6 +8,19 @@ jQuery(document).ready(function ($) {
         $('#site-navigation').toggleClass('fp-show');
     });
 
+	//Contact Submit
+	$('#msgBtn').click(function () {
+		$('#msgSent').removeClass('toggleOff');
+		setTimeout(function(){ 
+			document.getElementById("contactName").value = "";
+			document.getElementById("contactMail").value = "";
+			document.getElementById("contactPhone").value = "";
+			document.getElementById("contactSubject").value = "";
+			document.getElementById("contactMessage").value = "";
+		}, 300);
+	});
+
+	
     //Service tab
     $('.service-content:first').show();
     $('.service-tab:first').addClass('sm-active');
