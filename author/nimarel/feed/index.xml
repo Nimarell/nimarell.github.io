@@ -12,7 +12,7 @@
 	<atom:link href="https://nimarell.github.io/resume/author/nimarel/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nimarell.github.io/resume/</link>
 	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Thu, 28 Nov 2019 10:36:37 +0100</lastBuildDate>
+	<lastBuildDate>Mon, 09 Dec 2019 08:30:09 +0100</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,54 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AutoGarage &#8211; Logo</title>
+		<link>https://nimarell.github.io/resume/2019/12/09/autogarage-logo/</link>
+				<comments>https://nimarell.github.io/resume/2019/12/09/autogarage-logo/#respond</comments>
+				<pubDate>Mon, 09 Dec 2019 08:29:10 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=789</guid>
+				<description><![CDATA[Projet personnel: réalisation d&#8217;un logo pour un garage fictif.]]></description>
+								<content:encoded><![CDATA[
+<p>Projet personnel: réalisation d&rsquo;un logo pour un garage fictif.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/12/09/autogarage-logo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>SLAT &#8211; Logo</title>
+		<link>https://nimarell.github.io/resume/2019/12/09/slat-logo/</link>
+				<comments>https://nimarell.github.io/resume/2019/12/09/slat-logo/#respond</comments>
+				<pubDate>Mon, 09 Dec 2019 08:28:01 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=786</guid>
+				<description><![CDATA[Réalisation d&#8217;un logo pour un outil informatique d&#8217;une équipe de l&#8217;IRD de Montpellier.]]></description>
+								<content:encoded><![CDATA[
+<p>Réalisation d&rsquo;un logo pour un outil informatique d&rsquo;une équipe de l&rsquo;IRD de Montpellier.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/12/09/slat-logo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Plongée &#8211; Brochure</title>
+		<link>https://nimarell.github.io/resume/2019/12/09/plongee-brochure-2/</link>
+				<comments>https://nimarell.github.io/resume/2019/12/09/plongee-brochure-2/#respond</comments>
+				<pubDate>Mon, 09 Dec 2019 08:27:11 +0000</pubDate>
+		<dc:creator><![CDATA[Nimarel]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=783</guid>
+				<description><![CDATA[Projet personnel sur la réalisation d&#8217;une brochure pour une entreprise fictive de plongée sous-marine.]]></description>
+								<content:encoded><![CDATA[
+<p>Projet personnel sur la réalisation d&rsquo;une brochure pour une entreprise fictive de plongée sous-marine.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://nimarell.github.io/resume/2019/12/09/plongee-brochure-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title></title>
 		<link>https://nimarell.github.io/resume/2019/10/23/bonjour-tout-le-monde/</link>
 				<comments>https://nimarell.github.io/resume/2019/10/23/bonjour-tout-le-monde/#comments</comments>
@@ -114,7 +162,7 @@
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
-		<title>Logo &#8211; Auto Garage</title>
+		<title>HellCare &#8211; After Effect</title>
 		<link>https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/</link>
 				<comments>https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/#respond</comments>
 				<pubDate>Wed, 23 Oct 2019 11:07:46 +0000</pubDate>
@@ -122,13 +170,21 @@
 				<category><![CDATA[Portfolio]]></category>
 
 		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=281</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
+				<description><![CDATA[Mini-projet vidéo réalisé sous After Effect. Le but était de concevoir un logo pour un vétérinaire et d&#8217;en faire une très courte vidéo. Notre formateur aimant l&#8217;humour un peu décalé, je suis parti sur un vétérinaire spécialisé dans les animaux de l&#8217;enfer&#8230;]]></description>
+								<content:encoded><![CDATA[
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="HellCare - After Effect" width="1000" height="563" src="https://www.youtube.com/embed/XPVOA010nN8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p> Mini-projet vidéo réalisé sous After Effect. Le but était de concevoir un logo pour un vétérinaire et d&rsquo;en faire une très courte vidéo. Notre formateur aimant l&rsquo;humour un peu décalé, je suis parti sur un vétérinaire spécialisé dans les animaux de l&rsquo;enfer&#8230;</p>
+]]></content:encoded>
 							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
-		<title>Logo &#8211; Argo Amenagement</title>
+		<title>Argo Amenagement &#8211; Logo</title>
 		<link>https://nimarell.github.io/resume/2019/10/23/logo-argo-amenagement/</link>
 				<comments>https://nimarell.github.io/resume/2019/10/23/logo-argo-amenagement/#respond</comments>
 				<pubDate>Wed, 23 Oct 2019 11:07:22 +0000</pubDate>
@@ -136,13 +192,15 @@
 				<category><![CDATA[Portfolio]]></category>
 
 		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=279</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
+				<description><![CDATA[Projet personnel: réalisation d&#8217;un logo pour une entreprise d’aménagement fictive.]]></description>
+								<content:encoded><![CDATA[
+<p>Projet personnel: réalisation d&rsquo;un logo pour une entreprise d’aménagement fictive.</p>
+]]></content:encoded>
 							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-argo-amenagement/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
-		<title>Logo &#8211; SLAT</title>
+		<title>INK &#8211; Logo</title>
 		<link>https://nimarell.github.io/resume/2019/10/23/logo-slat/</link>
 				<comments>https://nimarell.github.io/resume/2019/10/23/logo-slat/#respond</comments>
 				<pubDate>Wed, 23 Oct 2019 11:06:57 +0000</pubDate>
@@ -150,13 +208,15 @@
 				<category><![CDATA[Portfolio]]></category>
 
 		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=277</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
+				<description><![CDATA[Projet personnel sur la création d&#8217;un logo. J&#8217;ai voulu faire un aspect 3D grâce à la perspective.]]></description>
+								<content:encoded><![CDATA[
+<p>Projet personnel sur la création d&rsquo;un logo. J&rsquo;ai voulu faire un aspect 3D grâce à la perspective.</p>
+]]></content:encoded>
 							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-slat/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
-		<title>Publicité &#8211; La cuisine zéro gâchis</title>
+		<title>La cuisine zéro gâchis &#8211; Publicité</title>
 		<link>https://nimarell.github.io/resume/2019/10/23/publicite-la-cuisine-zero-gachis/</link>
 				<comments>https://nimarell.github.io/resume/2019/10/23/publicite-la-cuisine-zero-gachis/#respond</comments>
 				<pubDate>Wed, 23 Oct 2019 11:06:24 +0000</pubDate>
@@ -164,51 +224,11 @@
 				<category><![CDATA[Portfolio]]></category>
 
 		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=275</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
+				<description><![CDATA[Exercice de publicité web animée pour un livre sur la cuisine zéro gâchis.]]></description>
+								<content:encoded><![CDATA[
+<p>Exercice de publicité web animée pour un livre sur la cuisine zéro gâchis.</p>
+]]></content:encoded>
 							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/publicite-la-cuisine-zero-gachis/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
-		<item>
-		<title>Logo &#8211; INK</title>
-		<link>https://nimarell.github.io/resume/2019/10/23/logo-ink/</link>
-				<comments>https://nimarell.github.io/resume/2019/10/23/logo-ink/#respond</comments>
-				<pubDate>Wed, 23 Oct 2019 11:05:56 +0000</pubDate>
-		<dc:creator><![CDATA[Nimarel]]></dc:creator>
-				<category><![CDATA[Portfolio]]></category>
-
-		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=273</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-ink/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
-		<item>
-		<title>Logo &#8211; I-Trop déclinaison</title>
-		<link>https://nimarell.github.io/resume/2019/10/23/logo-i-trop-declinaison/</link>
-				<comments>https://nimarell.github.io/resume/2019/10/23/logo-i-trop-declinaison/#respond</comments>
-				<pubDate>Wed, 23 Oct 2019 11:04:49 +0000</pubDate>
-		<dc:creator><![CDATA[Nimarel]]></dc:creator>
-				<category><![CDATA[Portfolio]]></category>
-
-		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=271</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/logo-i-trop-declinaison/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
-		<item>
-		<title>Logo I-Trop</title>
-		<link>https://nimarell.github.io/resume/2019/10/23/itrop-logo/</link>
-				<comments>https://nimarell.github.io/resume/2019/10/23/itrop-logo/#respond</comments>
-				<pubDate>Wed, 23 Oct 2019 11:03:37 +0000</pubDate>
-		<dc:creator><![CDATA[Nimarel]]></dc:creator>
-				<category><![CDATA[Portfolio]]></category>
-
-		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=258</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>https://nimarell.github.io/resume/2019/10/23/itrop-logo/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
