@@ -5,7 +5,7 @@ jQuery(document).ready(function ($) {
     //Navigation toggle
     $('#toggle').click(function () {
         $(this).toggleClass('on');
-        $('#colophon').toggleClass('fp-show');
+        $('#site-navigation').toggleClass('fp-show');
     });
 
 	//Contact Submit
@@ -170,10 +170,10 @@ jQuery(document).ready(function ($) {
             afterSlideLoad: function(anchorLink, index, slideAnchor, slideIndex){
                 if( slideIndex == 0 ) {
                     $('.header-wrapper').addClass('hide-header').removeClass('show-header');
-                    $('#colophon').removeClass('fp-show');
+                    $('#site-navigation').removeClass('fp-show');
                 }else {
                     $('.header-wrapper').addClass('show-header').removeClass('hide-header');
-                    $('#colophon').addClass('fp-show');
+                    $('#site-navigation').addClass('fp-show');
                 }
     
                 $('#site-navigation li').removeClass('current-menu-item');
@@ -187,10 +187,10 @@ jQuery(document).ready(function ($) {
             afterLoad: function(anchorLink, index){
                 if( index == 1 ){
                     $('.header-wrapper').addClass('hide-header').removeClass('show-header');
-                    $('#colophon').removeClass('fp-show');
+                    $('#site-navigation').removeClass('fp-show');
                 }else {
                     $('.header-wrapper').addClass('show-header').removeClass('hide-header');
-                    $('#colophon').addClass('fp-show');
+                    $('#site-navigation').addClass('fp-show');
                 }
             }
         });
