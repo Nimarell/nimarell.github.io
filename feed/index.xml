@@ -11,17 +11,17 @@
 	<title>Yann Delorme &#8211; Curriculum Vitae</title>
 	<atom:link href="https://nimarell.github.io/resume/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nimarell.github.io/resume/</link>
-	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Thu, 28 Nov 2019 10:36:37 +0100</lastBuildDate>
+	<description>Webdesigner - Graphiste - Développeur Front-end</description>
+	<lastBuildDate>Wed, 01 Apr 2020 07:25:45 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 
 <image>
-	<url>https://nimarell.github.io/resume/wp-content/uploads/2019/10/cropped-YD_Logo-32x32.png</url>
+	<url>https://nimarell.github.io/resume/wp-content/uploads/2020/04/cropped-YD_Logo_B-1-32x32.png</url>
 	<title>Yann Delorme &#8211; Curriculum Vitae</title>
 	<link>https://nimarell.github.io/resume/</link>
 	<width>32</width>
@@ -40,13 +40,13 @@
 								<content:encoded><![CDATA[
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
-<figure class="wp-block-image"><img src="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png" alt="" class="wp-image-83" srcset="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png 444w, https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo-300x270.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></figure>
+<figure class="wp-block-image size-large"><img src="https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-847x1024.png" alt="" class="wp-image-759" srcset="https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-847x1024.png 847w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-248x300.png 248w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-768x929.png 768w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B.png 1059w" sizes="(max-width: 847px) 100vw, 847px" /></figure>
 </div>
 
 
 
 <div class="wp-block-column">
-<h2 style="text-align:center"><br>YANN DELORME<br><em class="jobTitle">WEBDESIGNER</em></h2>
+<h2 class="has-text-align-center"><br>YANN DELORME<br><em class="jobTitle">WEBDESIGNER</em></h2>
 </div>
 </div>
 ]]></content:encoded>
@@ -66,7 +66,7 @@
 								<content:encoded><![CDATA[
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
-<figure class="wp-block-image"><img src="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png" alt="" class="wp-image-83" srcset="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png 444w, https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo-300x270.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></figure>
+<figure class="wp-block-image size-large"><img src="https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-847x1024.png" alt="" class="wp-image-759" srcset="https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-847x1024.png 847w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-248x300.png 248w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-768x929.png 768w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B.png 1059w" sizes="(max-width: 847px) 100vw, 847px" /></figure>
 
 
 
@@ -96,7 +96,7 @@
 								<content:encoded><![CDATA[
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
-<figure class="wp-block-image"><img src="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png" alt="" class="wp-image-83" srcset="https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo.png 444w, https://nimarell.github.io/resume/wp-content/uploads/2019/10/YD_Logo-300x270.png 300w" sizes="(max-width: 444px) 100vw, 444px" /></figure>
+<figure class="wp-block-image size-large"><img src="https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-847x1024.png" alt="" class="wp-image-759" srcset="https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-847x1024.png 847w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-248x300.png 248w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B-768x929.png 768w, https://nimarell.github.io/resume/wp-content/uploads/2020/04/YD_Logo_B.png 1059w" sizes="(max-width: 847px) 100vw, 847px" /></figure>
 
 
 
@@ -106,7 +106,7 @@
 
 
 <div class="wp-block-column">
-<h2 style="text-align:center"><br>YANN DELORME<br><em class="jobTitle">GRAPHISTE</em></h2>
+<h2 class="has-text-align-center"><br>YANN DELORME<br><em class="jobTitle">GRAPHISTE</em></h2>
 </div>
 </div>
 ]]></content:encoded>

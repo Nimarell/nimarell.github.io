@@ -10,12 +10,12 @@
 	Commentaires sur : Logo I-Trop	</title>
 	<atom:link href="https://nimarell.github.io/resume/2019/10/23/itrop-logo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nimarell.github.io/resume/2019/10/23/itrop-logo/</link>
-	<description>Un site utilisant WordPress</description>
-	<lastBuildDate>Wed, 23 Oct 2019 11:03:59 +0200</lastBuildDate>
+	<description>Webdesigner - Graphiste - Développeur Front-end</description>
+	<lastBuildDate>Wed, 23 Oct 2019 11:03:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
 </channel>
 </rss>

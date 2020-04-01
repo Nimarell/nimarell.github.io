@@ -7,20 +7,20 @@
 	>
 <channel>
 	<title>
-	Commentaires pour Yann Delorme &#8211; Curriculum Vitae	</title>
-	<atom:link href="https://nimarell.github.io/resume/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nimarell.github.io/resume/</link>
-	<description>Webdesigner - Graphiste - Développeur Front-end</description>
-	<lastBuildDate>Wed, 01 Apr 2020 07:25:24 +0000</lastBuildDate>
+	Commentaires sur : Bonjour tout le monde !	</title>
+	<atom:link href="https://nimarell.github.io/resume/2019/10/08/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nimarell.github.io/resume/2019/10/08/bonjour-tout-le-monde/</link>
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Thu, 17 Oct 2019 09:18:22 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
 			<item>
 				<title>
-				Commentaires sur  par Un commentateur WordPress				</title>
-				<link>https://nimarell.github.io/resume/2019/10/23/bonjour-tout-le-monde/#comment-1</link>
+				Par : Un commentateur WordPress				</title>
+				<link>https://nimarell.github.io/resume/2019/10/08/bonjour-tout-le-monde/#comment-1</link>
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
 		<pubDate>Tue, 08 Oct 2019 07:26:38 +0000</pubDate>
 		<guid isPermaLink="false">https://nimarell.github.io/resume/?p=1#comment-1</guid>
