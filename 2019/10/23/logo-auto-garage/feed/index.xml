@@ -7,11 +7,16 @@
 	>
 <channel>
 	<title>
-	Commentaires sur : Logo &#8211; Auto Garage	</title>
+	Commentaires sur : HellCare &#8211; After Effect	</title>
 	<atom:link href="https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nimarell.github.io/resume/2019/10/23/logo-auto-garage/</link>
+<<<<<<< HEAD
 	<description>Webdesigner - Graphiste - Développeur Front-end</description>
 	<lastBuildDate>Wed, 23 Oct 2019 11:07:46 +0000</lastBuildDate>
+=======
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Mon, 09 Dec 2019 08:24:23 +0100</lastBuildDate>
+>>>>>>> 1bc621737fa27438ac9755fbf30cbd84b5e1bf83
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

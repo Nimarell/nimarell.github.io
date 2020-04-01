@@ -7,11 +7,16 @@
 	>
 <channel>
 	<title>
-	Commentaires sur : Logo I-Trop	</title>
+	Commentaires sur : Chat Perché &#8211; Logo pour une micro-crèche.	</title>
 	<atom:link href="https://nimarell.github.io/resume/2019/10/23/itrop-logo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nimarell.github.io/resume/2019/10/23/itrop-logo/</link>
+<<<<<<< HEAD
 	<description>Webdesigner - Graphiste - Développeur Front-end</description>
 	<lastBuildDate>Wed, 23 Oct 2019 11:03:59 +0000</lastBuildDate>
+=======
+	<description>Un site utilisant WordPress</description>
+	<lastBuildDate>Tue, 03 Dec 2019 11:19:53 +0100</lastBuildDate>
+>>>>>>> 1bc621737fa27438ac9755fbf30cbd84b5e1bf83
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
